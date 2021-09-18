@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @liav25
-- 👀 I’m interested in the connection between data and society
-- 🌱 I’m currently learning Computer Science
+- 👀 I’m interested in the connection between data and our society
+- 🌱 I’m currently working as a Data Science
 - 💞️ I’m looking to collaborate on Big Data and ML Projects
 - 📫 How to reach me Liav25@gmail.com
 
